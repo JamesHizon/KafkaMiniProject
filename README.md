@@ -35,5 +35,5 @@ In order to get the streaming application running, I first needed to create the 
 
 
 ### Screenshot Info
-I will mainly show the screenshot of when I was able to successfully detect messages as fraud, since the Kafka streaming application does not always seem to be working. See file attached.
+Attached are screenshots of when I was able to obtain the essential desired queueing.transactions (from generator), legit and fraud messages. I am not always able to have it successfully run, however.
 
