@@ -35,5 +35,5 @@ In order to get the streaming application running, I first needed to create the 
 
 
 ### Screenshot Info
-Attached are screenshots of when I was able to obtain the essential desired queueing.transactions (from generator), legit and fraud messages. I am not always able to have it successfully run, however.
+Attached are screenshots of when I was able to obtain the essential desired queueing.transactions (from generator), legit and fraud messages. I am not always able to have it successfully run, however. For one of the screenshots, I took it before "gracefully exiting" using ```Ctrl+C```.
 
